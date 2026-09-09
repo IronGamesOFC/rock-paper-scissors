@@ -18,7 +18,7 @@ A simple Rock Paper Scissors game made with Python.
 
 ## How to Play
 
-Run `main.py` and choose:
+Run `Rock_Paper_Scissors_VERSAO_FINALIZADA` and choose:
 
 1. Rock
 2. Paper
